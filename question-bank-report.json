@@ -1,0 +1,2885 @@
+{
+  "sourceCount": 5,
+  "included": 5405,
+  "excluded": 667,
+  "countsBySection": {
+    "Intelligence & Reasoning": 579,
+    "General Awareness": 2424,
+    "Arithmetical & Numerical Ability": 600,
+    "English Language": 865,
+    "Hindi Language": 937
+  },
+  "exclusions": [
+    {
+      "source": "30 Mock Test Book",
+      "mock": 4,
+      "section": 4,
+      "reason": "Question boundaries need review",
+      "count": 20
+    },
+    {
+      "source": "30 Mock Test Book",
+      "mock": 6,
+      "section": 1,
+      "reason": "Question boundaries need review",
+      "count": 20
+    },
+    {
+      "source": "30 Mock Test Book",
+      "mock": 8,
+      "section": 0,
+      "question": 15,
+      "reason": "Printed key has no A–D answer",
+      "count": 1
+    },
+    {
+      "source": "30 Mock Test Book",
+      "mock": 8,
+      "section": 4,
+      "reason": "Question boundaries need review",
+      "count": 20
+    },
+    {
+      "source": "30 Mock Test Book",
+      "mock": 9,
+      "section": 4,
+      "reason": "Question boundaries need review",
+      "count": 20
+    },
+    {
+      "source": "30 Mock Test Book",
+      "mock": 12,
+      "section": 4,
+      "reason": "Question boundaries need review",
+      "count": 20
+    },
+    {
+      "source": "30 Mock Test Book",
+      "mock": 20,
+      "section": 3,
+      "question": 16,
+      "reason": "Printed key has no A–D answer",
+      "count": 1
+    },
+    {
+      "source": "30 Mock Test Book",
+      "mock": 20,
+      "section": 3,
+      "question": 17,
+      "reason": "Printed key has no A–D answer",
+      "count": 1
+    },
+    {
+      "source": "30 Mock Test Book",
+      "mock": 20,
+      "section": 3,
+      "question": 18,
+      "reason": "Printed key has no A–D answer",
+      "count": 1
+    },
+    {
+      "source": "30 Mock Test Book",
+      "mock": 20,
+      "section": 3,
+      "question": 19,
+      "reason": "Printed key has no A–D answer",
+      "count": 1
+    },
+    {
+      "source": "30 Mock Test Book",
+      "mock": 20,
+      "section": 3,
+      "question": 20,
+      "reason": "Printed key has no A–D answer",
+      "count": 1
+    },
+    {
+      "source": "30 Mock Test Book",
+      "mock": 22,
+      "section": 4,
+      "reason": "Question boundaries need review",
+      "count": 20
+    },
+    {
+      "source": "30 Mock Test Book",
+      "mock": 23,
+      "section": 4,
+      "reason": "Question boundaries need review",
+      "count": 20
+    },
+    {
+      "source": "30 Mock Test Book",
+      "mock": 24,
+      "section": 3,
+      "reason": "Question boundaries need review",
+      "count": 20
+    },
+    {
+      "source": "30 Mock Test Book",
+      "mock": 25,
+      "section": 4,
+      "reason": "Question boundaries need review",
+      "count": 20
+    },
+    {
+      "source": "30 Mock Test Book",
+      "mock": 27,
+      "section": 4,
+      "reason": "Question boundaries need review",
+      "count": 20
+    },
+    {
+      "source": "30 Mock Test Book",
+      "mock": 28,
+      "section": 0,
+      "reason": "Question boundaries need review",
+      "count": 20
+    },
+    {
+      "source": "30 Mock Test Book",
+      "mock": 29,
+      "section": 4,
+      "reason": "Question boundaries need review",
+      "count": 20
+    },
+    {
+      "source": "30 Mock Test Book",
+      "mock": 30,
+      "section": 4,
+      "reason": "Question boundaries need review",
+      "count": 20
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-0-128",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-0-162",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-3-29",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-29",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-30",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-31",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-32",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-33",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-34",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-35",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-36",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-37",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-38",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-39",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-40",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-41",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-42",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-43",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-44",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-45",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-46",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-47",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-48",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-49",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-50",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-51",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-52",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-53",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-54",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-55",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-56",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-57",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-58",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-59",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-60",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-61",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-62",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-63",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-64",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-65",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-66",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-67",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-68",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-69",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-70",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-71",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-72",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-73",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-74",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-75",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-76",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-77",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-78",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-79",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-80",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-81",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-82",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-83",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-84",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-85",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-86",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-87",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-88",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-89",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-90",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-91",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-92",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-93",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-4-94",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-5-44",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-7-62",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "Hindi Vocabulary",
+      "question": "hindi-7-80",
+      "reason": "Boundary or chapter needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 1,
+      "question": 10,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 2,
+      "question": 24,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 6,
+      "question": 1,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 6,
+      "question": 42,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 10,
+      "question": 11,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 10,
+      "question": 13,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 12,
+      "question": 40,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 12,
+      "question": 41,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 12,
+      "question": 42,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 12,
+      "question": 43,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 12,
+      "question": 44,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 12,
+      "question": 45,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 12,
+      "question": 46,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 12,
+      "question": 47,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 12,
+      "question": 48,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 12,
+      "question": 49,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 12,
+      "question": 50,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 12,
+      "question": 51,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 12,
+      "question": 52,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 12,
+      "question": 53,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 12,
+      "question": 54,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 13,
+      "question": 55,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 13,
+      "question": 56,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 13,
+      "question": 57,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 13,
+      "question": 58,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 13,
+      "question": 59,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 13,
+      "question": 60,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 13,
+      "question": 61,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 13,
+      "question": 62,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 13,
+      "question": 63,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 13,
+      "question": 64,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 13,
+      "question": 65,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 13,
+      "question": 66,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 13,
+      "question": 67,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 13,
+      "question": 68,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 13,
+      "question": 69,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 13,
+      "question": 70,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 14,
+      "question": 71,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 14,
+      "question": 72,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 14,
+      "question": 73,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 14,
+      "question": 74,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 14,
+      "question": 75,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 14,
+      "question": 76,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 14,
+      "question": 77,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 14,
+      "question": 78,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 14,
+      "question": 79,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 14,
+      "question": 80,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 14,
+      "question": 81,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 14,
+      "question": 82,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 14,
+      "question": 83,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 14,
+      "question": 84,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 14,
+      "question": 85,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 14,
+      "question": 86,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 15,
+      "question": 88,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 15,
+      "question": 89,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 15,
+      "question": 90,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 15,
+      "question": 91,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 15,
+      "question": 92,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 16,
+      "question": 2,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 16,
+      "question": 3,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 16,
+      "question": 5,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 16,
+      "question": 11,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 17,
+      "question": 13,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 17,
+      "question": 18,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 17,
+      "question": 23,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 18,
+      "question": 25,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 18,
+      "question": 28,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 18,
+      "question": 33,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 19,
+      "question": 43,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 19,
+      "question": 44,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 19,
+      "question": 45,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 19,
+      "question": 48,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 20,
+      "question": 53,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 21,
+      "question": 61,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 21,
+      "question": 67,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 21,
+      "question": 70,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 22,
+      "question": 73,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 23,
+      "question": 91,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 23,
+      "question": 92,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 23,
+      "question": 93,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 24,
+      "question": 95,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 25,
+      "question": 10,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 33,
+      "question": 42,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "English Vocabulary 2025",
+      "page": 33,
+      "question": 10,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 6,
+      "question": 3,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 9,
+      "question": 1,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 10,
+      "question": 10,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 10,
+      "question": 14,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 10,
+      "question": 15,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 12,
+      "question": 1,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 12,
+      "question": 8,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 12,
+      "question": 11,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 14,
+      "question": 27,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 14,
+      "question": 30,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 14,
+      "question": 32,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 15,
+      "question": 40,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 16,
+      "question": 53,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 17,
+      "question": 60,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 19,
+      "question": 81,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 20,
+      "question": 94,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 20,
+      "question": 95,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 31,
+      "question": 146,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 31,
+      "question": 186,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 31,
+      "question": 196,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 37,
+      "question": 74,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 38,
+      "question": 76,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 38,
+      "question": 83,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 60,
+      "question": 196,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 60,
+      "question": 201,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 60,
+      "question": 216,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 60,
+      "question": 221,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 60,
+      "question": 226,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 60,
+      "question": 246,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 60,
+      "question": 261,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 60,
+      "question": 266,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 60,
+      "question": 271,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 60,
+      "question": 276,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 60,
+      "question": 291,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 72,
+      "question": 61,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 72,
+      "question": 62,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 72,
+      "question": 63,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 72,
+      "question": 64,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 73,
+      "question": 65,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 73,
+      "question": 66,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 73,
+      "question": 67,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 73,
+      "question": 68,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 73,
+      "question": 69,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 73,
+      "question": 70,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 73,
+      "question": 71,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 73,
+      "question": 72,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 73,
+      "question": 73,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 73,
+      "question": 74,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 73,
+      "question": 75,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 74,
+      "question": 76,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 74,
+      "question": 77,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 74,
+      "question": 78,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 74,
+      "question": 79,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 74,
+      "question": 80,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 74,
+      "question": 81,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 74,
+      "question": 82,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 74,
+      "question": 83,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 74,
+      "question": 84,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 74,
+      "question": 85,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 74,
+      "question": 86,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 75,
+      "question": 87,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 75,
+      "question": 88,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 75,
+      "question": 89,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 75,
+      "question": 90,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 75,
+      "question": 91,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 75,
+      "question": 92,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 75,
+      "question": 93,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 75,
+      "question": 94,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 75,
+      "question": 95,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 75,
+      "question": 96,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 75,
+      "question": 97,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 75,
+      "question": 98,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 76,
+      "question": 99,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 84,
+      "question": 175,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 92,
+      "question": 101,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 92,
+      "question": 106,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 92,
+      "question": 126,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 92,
+      "question": 146,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 92,
+      "question": 196,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 92,
+      "question": 251,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 98,
+      "question": 20,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 99,
+      "question": 16,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 100,
+      "question": 23,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 103,
+      "question": 7,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 103,
+      "question": 8,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 106,
+      "question": 16,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 106,
+      "question": 17,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 106,
+      "question": 18,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 106,
+      "question": 19,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 106,
+      "question": 20,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 106,
+      "question": 21,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 106,
+      "question": 22,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 106,
+      "question": 23,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 106,
+      "question": 24,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 107,
+      "question": 25,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 107,
+      "question": 26,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 107,
+      "question": 27,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 107,
+      "question": 28,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 107,
+      "question": 29,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 107,
+      "question": 30,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 107,
+      "question": 31,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 107,
+      "question": 32,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 107,
+      "question": 33,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 107,
+      "question": 34,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 108,
+      "question": 35,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 108,
+      "question": 36,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 108,
+      "question": 37,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 108,
+      "question": 38,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 108,
+      "question": 39,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 108,
+      "question": 40,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 108,
+      "question": 41,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 108,
+      "question": 42,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 109,
+      "question": 16,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 109,
+      "question": 31,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 110,
+      "question": 16,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 118,
+      "question": 74,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 121,
+      "question": 99,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 136,
+      "question": 74,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 137,
+      "question": 86,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 137,
+      "question": 87,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 137,
+      "question": 88,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 138,
+      "question": 89,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 138,
+      "question": 90,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 138,
+      "question": 91,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 138,
+      "question": 92,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 138,
+      "question": 93,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 138,
+      "question": 94,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 138,
+      "question": 95,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 139,
+      "question": 96,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 139,
+      "question": 97,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 139,
+      "question": 98,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 139,
+      "question": 99,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 140,
+      "question": 101,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 140,
+      "question": 1,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 141,
+      "question": 11,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 142,
+      "question": 12,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 142,
+      "question": 13,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 142,
+      "question": 14,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 142,
+      "question": 15,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 142,
+      "question": 16,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 142,
+      "question": 17,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 142,
+      "question": 18,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 142,
+      "question": 19,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 142,
+      "question": 20,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 142,
+      "question": 21,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 143,
+      "question": 22,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 143,
+      "question": 23,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 143,
+      "question": 24,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 143,
+      "question": 25,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 143,
+      "question": 26,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 143,
+      "question": 27,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 143,
+      "question": 28,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 143,
+      "question": 29,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 143,
+      "question": 30,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 144,
+      "question": 31,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 144,
+      "question": 32,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 144,
+      "question": 33,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 144,
+      "question": 34,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 144,
+      "question": 35,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 144,
+      "question": 37,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 144,
+      "question": 38,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 145,
+      "question": 39,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 145,
+      "question": 40,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 145,
+      "question": 41,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 145,
+      "question": 42,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 145,
+      "question": 43,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 145,
+      "question": 44,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 145,
+      "question": 45,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 145,
+      "question": 46,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 145,
+      "question": 47,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 146,
+      "question": 48,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 146,
+      "question": 49,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 146,
+      "question": 50,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 146,
+      "question": 51,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 146,
+      "question": 52,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 146,
+      "question": 53,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 146,
+      "question": 54,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 146,
+      "question": 55,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 147,
+      "question": 56,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 147,
+      "question": 57,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 147,
+      "question": 58,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 147,
+      "question": 59,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 147,
+      "question": 60,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 147,
+      "question": 61,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 147,
+      "question": 62,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 147,
+      "question": 63,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 148,
+      "question": 64,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 148,
+      "question": 65,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 148,
+      "question": 66,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 148,
+      "question": 67,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 148,
+      "question": 68,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 148,
+      "question": 69,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 148,
+      "question": 70,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 148,
+      "question": 71,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 149,
+      "question": 72,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 149,
+      "question": 73,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 149,
+      "question": 74,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 149,
+      "question": 75,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 149,
+      "question": 76,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 149,
+      "question": 77,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 149,
+      "question": 78,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 149,
+      "question": 79,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 150,
+      "question": 80,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 150,
+      "question": 81,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 150,
+      "question": 82,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 150,
+      "question": 83,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 150,
+      "question": 84,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 150,
+      "question": 85,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 150,
+      "question": 86,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 150,
+      "question": 87,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 150,
+      "question": 88,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 151,
+      "question": 89,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 151,
+      "question": 90,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 151,
+      "question": 91,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 151,
+      "question": 92,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 151,
+      "question": 93,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 151,
+      "question": 94,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 151,
+      "question": 95,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 151,
+      "question": 96,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 151,
+      "question": 97,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 152,
+      "question": 98,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 152,
+      "question": 99,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 158,
+      "question": 11,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 158,
+      "question": 16,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 158,
+      "question": 21,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 158,
+      "question": 36,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 158,
+      "question": 41,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 158,
+      "question": 56,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 158,
+      "question": 61,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 158,
+      "question": 66,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 158,
+      "question": 91,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 158,
+      "question": 96,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 158,
+      "question": 16,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 158,
+      "question": 126,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 158,
+      "question": 131,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 158,
+      "question": 136,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 158,
+      "question": 141,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 159,
+      "question": 11,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 159,
+      "question": 16,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 160,
+      "question": 21,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 161,
+      "question": 36,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "page": 161,
+      "question": 41,
+      "reason": "OCR boundary or key agreement needs review",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "question": "static-4-99",
+      "reason": "Overlong boundary",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "question": "static-5-99",
+      "reason": "Overlong boundary",
+      "count": 1
+    },
+    {
+      "source": "Static GK and Art Culture",
+      "question": "static-15-134",
+      "reason": "Overlong boundary",
+      "count": 1
+    }
+  ]
+}

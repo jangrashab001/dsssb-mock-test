@@ -1,0 +1,6 @@
+{
+  "app_checks": "Passed: section locks, resume, overtime, random 20/section, scoring (+100, -25, 0), desktop and 390px mobile layout, PDF export, random image decoding",
+  "question_count": 5405,
+  "pack_integrity": "Every included image and passage has an existing data asset",
+  "limitations": "Answer keys follow sources. Spot-checked imagery; not every question manually reviewed. Physical phones not tested."
+}
